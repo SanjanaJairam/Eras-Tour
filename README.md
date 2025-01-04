@@ -111,5 +111,5 @@ We welcome contributions to improve and expand this project! Feel free to submit
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/SanjanaJairam/Eras-Tour/blob/main/LICENSE).
 
